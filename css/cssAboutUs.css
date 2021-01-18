@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+    background-image: url("../images/fondoIndex.jpg");
+    background-size: cover;
+}
+
+h1{
+    color: black;
+    font-size: 40px;
+}
+
+h2{
+    text-align: center;
+    color:black
+}
+
+.contenedor{
+    margin: 50px;
+}
+b, strong{
+    color: #000;
+}
+h3{
+    color: black;
+    font-size: 30px;  
+}
+h4{
+    color: black;
+    font-size: 20px;  
+}
+.contenedor > p{
+    color: rgb(58, 58, 58);
+}
+
+#imagenIndex{
+    width: 500px;
+    margin-left: 450px;
+}
+
+p{
+    font-size: 25px;
+}
